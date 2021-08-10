@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\begin_abramyan\begin_abramyan\bin\Debug\begin_abramyan.exe.config
+C:\Users\User\source\repos\begin_abramyan\begin_abramyan\bin\Debug\begin_abramyan.exe
+C:\Users\User\source\repos\begin_abramyan\begin_abramyan\bin\Debug\begin_abramyan.pdb
+C:\Users\User\source\repos\begin_abramyan\begin_abramyan\obj\Debug\begin_abramyan.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\begin_abramyan\begin_abramyan\obj\Debug\begin_abramyan.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\begin_abramyan\begin_abramyan\obj\Debug\begin_abramyan.exe
+C:\Users\User\source\repos\begin_abramyan\begin_abramyan\obj\Debug\begin_abramyan.pdb
